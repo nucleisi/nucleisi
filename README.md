@@ -8,4 +8,5 @@ i make things for fun and (very) occasionally finish them
 - make websites i guess (hi)
 
 ## find me
-this is my website you should go look at it maybe. if you want. Hi [lace.moe](https://lace.moe)
+this is my website you should go look at it maybe. if you want. Hi 
+[lace.moe](https://lace.moe)
