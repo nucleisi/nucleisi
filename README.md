@@ -7,4 +7,4 @@ i make things for fun and (very) occasionally finish them
 - make websites i guess 
 
 ## i am moe sometimes here maybe
-[lace.moe](https://lace.moe) &larr; this is my personal website! check it out if you want
+[lace.moe](https://lace.moe) &larr; this is my personal website
